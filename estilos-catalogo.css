@@ -388,7 +388,6 @@ h6 {
   flex
 }
 .indice__item {
-  border: 0.5px solid bisque;
   width: 33%;
   
 
@@ -404,7 +403,7 @@ h6 {
 }
 @media only screen and (min-width: 1200px) {
   :root {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1198px) {
